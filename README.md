@@ -8,10 +8,10 @@ It demonstrates a clean, production-ready architecture with JWT authentication, 
 ## ⚙️ Tech Stack
 
 - **Backend:** Node.js, Express.js  
-- **Database:** MySQL / PostgreSQL (via Sequelize ORM)  
+- **Database:** MySQL (via Sequelize ORM)  
 - **Authentication:** JWT (JSON Web Token)  
 - **Security:** bcrypt for password hashing, dotenv for config  
-- **Validation:** express-validator / Joi  
+- **Validation:** Joi  
 - **Dev Tools:** Nodemon, ESLint, Postman  
 
 ---
